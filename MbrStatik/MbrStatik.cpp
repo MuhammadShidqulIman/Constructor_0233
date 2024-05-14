@@ -29,6 +29,8 @@ void mahasiswa::setID()
     id = ++nim;
 }
 
+void mahasiswa::printAll()
+
 int main()
 {
     std::cout << "Hello World!\n";
