@@ -7,7 +7,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MbrStatik", "MbrStatik\MbrS
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B3350C0A-E40E-4BF2-86E6-3B6AFFE0A56A}"
 	ProjectSection(SolutionItems) = preProject
+		chainfunction.cpp = chainfunction.cpp
 		contructor.cpp = contructor.cpp
+		destructor.cpp = destructor.cpp
 		MbrstaticFunc.cpp = MbrstaticFunc.cpp
 	EndProjectSection
 EndProject
